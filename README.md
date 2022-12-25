@@ -17,3 +17,9 @@
 | firebase_auth  | 4.2.3  |
 | firebase_database  | 10.0.8  |
 | firebase_core  | 2.4.0  |
+
+![](https://img.shields.io/pub/v/firebase_auth)
+![](https://img.shields.io/pub/v/firebase_core)
+![](https://img.shields.io/pub/v/firebase_database)
+![](https://img.shields.io/pub/v/getx)
+![](https://img.shields.io/pub/v/shared_preferences)
