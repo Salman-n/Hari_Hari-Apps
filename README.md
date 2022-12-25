@@ -21,5 +21,6 @@
 ![](https://img.shields.io/pub/v/firebase_auth)
 ![](https://img.shields.io/pub/v/firebase_core)
 ![](https://img.shields.io/pub/v/firebase_database)
-![](https://img.shields.io/pub/v/getx)
+![](https://img.shields.io/pub/v/get)
 ![](https://img.shields.io/pub/v/shared_preferences)
+![](https://img.shields.io/pub/v/change_app_package_name)
