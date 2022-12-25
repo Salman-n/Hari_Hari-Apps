@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "94989424274",
+    "firebase_url": "https://myday-95947-default-rtdb.firebaseio.com",
+    "project_id": "myday-95947",
+    "storage_bucket": "myday-95947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94989424274:android:a5b66a2db78af99eb9784b",
+        "android_client_info": {
+          "package_name": "com.manyer.myday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94989424274-n007kf790h23ffkte6h2rc5v7ccpnp8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmkM1NNKd-feNeHSpkj198O4otHk12OWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94989424274-n007kf790h23ffkte6h2rc5v7ccpnp8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94989424274-k5jq3rpedts4khhhhf3rn1mrnn7pb71i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uasd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
