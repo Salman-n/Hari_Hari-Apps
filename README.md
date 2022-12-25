@@ -1,4 +1,4 @@
-# uasd
+# UAS PPB
 ### Fitur
 
 - Fitur Aplikasi CRUD Diary & Note
